@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.samuelsoares.vinil",
+        "sha256_cert_fingerprints": ["84:57:6D:F2:B8:74:88:A4:42:F1:ED:99:13:5E:2A:EB:03:C6:74:E8:FB:49:90:ED:3D:8B:D3:E7:AE:03:3C:C8"]
+      }
+    }]
